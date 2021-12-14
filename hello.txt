@@ -1,3 +1,5 @@
 hello đây là An Khang
 Xin chao nha
 Cảm ơn nhiều
+"Thêm dòng 1"
+"Thêm dòng 2"
